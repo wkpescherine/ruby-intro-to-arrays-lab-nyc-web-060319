@@ -10,7 +10,11 @@ def first_element(array)
   array.first
 end
 
-def third_element(array, element)
-  array.index[element]  
+def third_element(array)
+  array.index[2]  
+end
+
+def last_element()
+  array.last  
 end
 
