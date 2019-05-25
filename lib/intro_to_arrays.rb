@@ -14,7 +14,7 @@ def third_element(array)
   array.index[3]  
 end
 
-def last_element()
-  array.index(-1) 
+def last_element(array)
+  array.index[-1] 
 end
 
