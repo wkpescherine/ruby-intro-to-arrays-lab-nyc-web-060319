@@ -11,5 +11,6 @@ def first_element(array)
 end
 
 def third_element(array, element)
-  array.index[array_with_two_elements]  
+  array.index[element]  
 end
+
